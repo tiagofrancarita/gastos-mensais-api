@@ -1,0 +1,1 @@
+alter table usuarios_acesso drop CONSTRAINT "uk_8bak9jswon2id2jbunuqlfl9e";
